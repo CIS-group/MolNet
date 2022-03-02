@@ -23,8 +23,9 @@ Yeji Kim, Yoonho Jeong, Jihoo Kim, Eok Kyun Lee, Won June Kim, Insung S. Choi, [
 ## Models
 
 The `model` folder contains python scripts for building, training, and evaluation of the MolNet model.
+The `data` folder contains dataset for the experiment.  
 
-The 'dataset.py' cleans and prepares the dataset for the model training with data agumentation.  
+The 'dataset.py' cleans and prepares the dataset for the model training.  
 The 'layer.py' and 'model.py' build the model structure.  
 The 'loss.py' and 'callbacks.py' assign the loss and metrics that we wanted to use.  
 The 'trainer.py' and 'run_script.py' are for training of the model.  
