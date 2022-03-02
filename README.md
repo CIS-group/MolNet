@@ -22,7 +22,7 @@ Yeji Kim, Yoonho Jeong, Jihoo Kim, Eok Kyun Lee, Won June Kim, Insung S. Choi, [
 
 ## Models
 
-The `model` folder contains python scripts for building, training, and evaluation of the MolNet model.
+The `model` folder contains python scripts for building, training, and evaluation of the MolNet model.  
 The `data` folder contains dataset for the experiment.  
 
 The 'dataset.py' cleans and prepares the dataset for the model training.  
