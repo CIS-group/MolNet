@@ -28,4 +28,3 @@ The 'dataset.py' cleans and prepares the dataset for the model training with dat
 The 'layer.py' and 'model.py' build the model structure.  
 The 'loss.py' and 'callbacks.py' assign the loss and metrics that we wanted to use.  
 The 'trainer.py' and 'run_script.py' are for training of the model.  
-The 'rotational_invariance.py' evaluates the trained model with ligand rotations. 
