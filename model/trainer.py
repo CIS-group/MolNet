@@ -90,9 +90,9 @@ class Trainer(object):
 
         # 1. Generate CV folder
         now = datetime.now()
-        base_path = "./result/{}/{}/".format(model, self.hyper["dataset"])
-        if not (os.path.isdir("./result/{}/".format(model))):
-            os.mkdir("./result/{}/".format(model))
+        base_path = "../result/{}/{}/".format(model, self.hyper["dataset"])
+        if not (os.path.isdir("../result/{}/".format(model))):
+            os.mkdir("../result/{}/".format(model))
         if not (os.path.isdir(base_path)):
             os.mkdir(base_path)
             
