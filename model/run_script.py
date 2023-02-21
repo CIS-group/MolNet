@@ -62,4 +62,3 @@ if __name__ == "__main__":
     #trainer.eval(args.path, use_multiprocessing=False, **hyperparameters, **features)
     #trainer.draw_heatmap(args.path, use_multiprocessing=False, **hyperparameters, **features)
 
-# e.g.) nohup python -u model/run_script.py --model "model_molnet" --pooling 'max,avg,sum' --act "swish" --gpu 0
