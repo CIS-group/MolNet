@@ -1,8 +1,7 @@
 # MolNet: A Chemically Intuitive Graph Neural Network for Prediction of Molecular Properties
 This is an implementation of our paper "MolNet: A Chemically Intuitive Graph Neural Network for Prediction of Molecular Properties":
 
-Yeji Kim, Yoonho Jeong, Jihoo Kim, Eok Kyun Lee, Won June Kim, Insung S. Choi, [MolNet: A Chemically Intuitive Graph Neural Network for Prediction of Molecular Properties] (Chem. Asian J. 2022) (submitted)
-
+Yeji Kim, Yoonho Jeong, Jihoo Kim, Eok Kyun Lee, Won June Kim, Insung S. Choi, [MolNet: A Chemically Intuitive Graph Neural Network for Prediction of Molecular Properties] (Chem. Asian J. 2022, 17(16), e202200269)
 
 ## Requirements
 
